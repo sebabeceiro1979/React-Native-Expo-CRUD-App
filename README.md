@@ -20,7 +20,7 @@ This project serves as an educational resource for individuals who want to learn
 *Explore
 
 # To install
-1.Clone this repository.
+1. Clone this repository.
 2. Install the dependencies by running 'npm install' or 'yarn install'.
 3. Launch the application with 'npx expo start'.
 
